@@ -14,7 +14,6 @@ import { Component } from '@angular/core';
     <nav>
       <a routerLink=""
       routerLinkActive="active"
-      [routerLinkActiveOptions]="{exact: true}"
       >
         Home
       </a>
